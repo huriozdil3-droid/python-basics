@@ -1,2 +1,2 @@
-# python-basics
-My first Python basic projects
+# python_practice_projects
+Practice mini projects built while learning Python.
